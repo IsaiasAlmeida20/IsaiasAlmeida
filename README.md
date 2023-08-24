@@ -9,12 +9,18 @@
 - 🌱 I’m currently learning automated tests🧪 and QA✅.
 - 📫 How to reach me: isaiasalmeida319@gmail.com
 
+<div>
+  <a href="https://github.com/IsaiasAlmeida20">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasalmeida20&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isaiasalmeida20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ### Tools and Technologies
 BACKEND <br>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring)](https://skillicons.dev)
 
 FRONTEND <br>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,vite)](https://skillicons.dev)
 
 DATABASE <br>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
