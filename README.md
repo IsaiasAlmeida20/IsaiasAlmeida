@@ -9,12 +9,6 @@
 - 🌱 I’m currently learning automated tests🧪 and QA✅.
 - 📫 How to reach me: isaiasalmeida319@gmail.com
 
-<div>
-  <a href="https://github.com/IsaiasAlmeida20">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasalmeida20&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isaiasalmeida20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ### Tools and Technologies
 BACKEND <br>
 [![My Skills](https://skillicons.dev/icons?i=python,django,java,spring)](https://skillicons.dev)
