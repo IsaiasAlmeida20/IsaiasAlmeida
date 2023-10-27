@@ -14,7 +14,10 @@ BACKEND <br>
 [![My Skills](https://skillicons.dev/icons?i=python,django,java,spring)](https://skillicons.dev)
 
 FRONTEND <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vue,angular,vite)](https://skillicons.dev)
 
 DATABASE <br>
 [![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
+
+OTHERS <br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,postman,git,github,linux,selenium)](https://skillicons.dev)
