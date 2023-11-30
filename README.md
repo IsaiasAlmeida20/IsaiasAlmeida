@@ -6,7 +6,7 @@
 ### About me
 
 - ✨ I'm a fullstack developer.
-- 🌱 I’m currently learning automated tests🧪 and QA✅.
+- ❤️ passionate about technology💻 and games🎮 
 - 📫 How to reach me: isaiasalmeida319@gmail.com
 
 ### Tools and Technologies
