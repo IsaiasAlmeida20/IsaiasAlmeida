@@ -6,7 +6,7 @@
 ### About me
 
 - ✨ I'm a fullstack developer.
-- ❤️ passionate about technology💻 and games🎮 
+- 📚 Always looking for new knowledge.
 - 📫 How to reach me: isaiasalmeida319@gmail.com
 
 ### Tools and Technologies
