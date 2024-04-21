@@ -7,7 +7,7 @@
 
 - ✨ I'm a web developer.
 - 📚 Always looking for new knowledge.
-- 📫 How to reach me: isaiasalmeida319@gmail.com
+- 📫 How to find me: isaiasalmeida319@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasalmeida20&show_icons=true&theme=dracula)
 
