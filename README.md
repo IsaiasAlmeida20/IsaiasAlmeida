@@ -5,7 +5,7 @@
 
 ### About me
 
-- ✨ I'm a web developer.
+- ✨ I'm a fullstack developer.
 - 📚 Always looking for new knowledge.
 - 📫 How to reach me: isaiasalmeida319@gmail.com
 
