@@ -22,4 +22,4 @@ DATABASE <br>
 [![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
 
 OTHERS <br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github,linux,windows,)](http://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github,linux,ubuntu,windows,)](http://skillicons.dev)
